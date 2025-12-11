@@ -139,7 +139,7 @@ The best model was saved and deployed using **Streamlit**. The application allow
 
     ```bash
     git clone https://github.com/AlbertoMitroi/ML_CryptoGigelAI.git
-    cd CryptoGigel
+    cd ML_CryptoGigelAI
     ```
 
 2.  **Install dependencies:**
