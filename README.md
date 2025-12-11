@@ -138,7 +138,7 @@ The best model was saved and deployed using **Streamlit**. The application allow
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/AlbertoMitroi/ML_CryptoGigelAI.git](https://github.com/AlbertoMitroi/ML_CryptoGigelAI.git)
+    git clone https://github.com/AlbertoMitroi/ML_CryptoGigelAI.git
     cd CryptoGigel
     ```
 
